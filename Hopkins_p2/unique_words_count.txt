@@ -1,0 +1,6 @@
+hi 1
+no 4
+maybe 1
+yes 2
+up 4
+down 2

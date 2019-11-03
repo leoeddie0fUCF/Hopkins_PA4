@@ -1,0 +1,14 @@
+hi
+no
+yes
+maybe
+up
+down
+up
+up
+up
+down
+yes
+no
+no
+no

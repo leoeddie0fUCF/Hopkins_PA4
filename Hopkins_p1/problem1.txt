@@ -1,0 +1,11 @@
+up
+down
+left
+right
+forward
+hi
+no
+yes
+up
+left
+yes
